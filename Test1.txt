@@ -1,1 +1,2 @@
 Created My 1st repository.
+And also Edited for git pull.
